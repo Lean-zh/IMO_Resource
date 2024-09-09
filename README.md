@@ -1,2 +1,3 @@
 # IMO_Resource
-Resource of IMO(International Mathematical Olympiad)
+
+Resource of IMO(International Mathematical Olympiad).
