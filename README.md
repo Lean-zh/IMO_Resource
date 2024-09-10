@@ -6,8 +6,8 @@
 
 ## 文件结构
 
-- `IMO_2024`: IMO 2024 的题解，AlphaProof 关于问题 1、2 和 6 的[ LEAN 题解](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/imo-2024-solutions/index.html)。
-- `scripts`: IMO 2024 相关的 Python 代码。
+- `IMO_2024`: AlphaProof 关于问题 1、2 和 6 的[ LEAN 题解](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/imo-2024-solutions/index.html)。
+- `scripts`: 分析 IMO 2024 习题的 Python 代码。
 - `problems`
   - `Chinese`: 中文版题目（2006-2024）。
   - `English`: 英文版题目（1959-2024）。
